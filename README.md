@@ -1,4 +1,4 @@
-# gatling-dockerun
+# gatling-docker
 
 $docker build -t serrodcal/gatling:3.5.1 .
 
